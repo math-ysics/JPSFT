@@ -12,6 +12,8 @@ Precision Reduction and Quantization: https://huggingface.co/ai-net/llama-JPSFT-
 
 例えば:
 
-{{user}} 今日は何をしますか？
+{{user}} \
+今日は何をしますか？
 
-llama-JPSFT-GGUF/llama-jpsft-q4_k_m.gguf 今日は、ユーザーの質問に回答し、情報を提供することを目指します。
+llama-JPSFT-GGUF/llama-jpsft-q4_k_m.gguf \
+今日は、ユーザーの質問に回答し、情報を提供することを目指します。
