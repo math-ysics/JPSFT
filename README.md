@@ -6,9 +6,9 @@ This repository contains the code for the data processing and training of the op
 
 Repository: https://github.com/math-ysics/JPSFT
 
-Instruct Model: https://huggingface.co/ai-net/llama-JPSFT
+Instruct Model: https://huggingface.co/ai-net/Llama-JPSFT
 
-Precision Reduction and Quantization: https://huggingface.co/ai-net/llama-JPSFT-GGUF
+Precision Reduction and Quantization: https://huggingface.co/ai-net/Llama-JPSFT-GGUF
 
 例えば:
 
