@@ -10,7 +10,7 @@ Instruct Model: https://huggingface.co/ai-net/llama-JPSFT
 
 Precision Reduction and Quantization: https://huggingface.co/ai-net/llama-JPSFT-GGUF
 
-# 例えば:
+例えば:
 
 {{user}} 今日は何をしますか？
 
