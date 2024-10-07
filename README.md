@@ -4,11 +4,11 @@ This repository contains the code for the data processing and training of the op
 
 約13万件の多様な匿名化されたチャットデータを基に、教師あり学習による微調整が実施されました。
 
-Repository: https://github.com/math-ysics/JPSFT
+Repository: https://github.com/math-ysics/Llama-JPSFT
 
-Instruct Model: https://huggingface.co/ai-net/Llama-JPSFT
+Instruct Model: https://huggingface.co/ai-net/Llama-JPSFT-1.0
 
-Precision Reduction and Quantization: https://huggingface.co/ai-net/Llama-JPSFT-GGUF
+Precision Reduction and Quantization: https://huggingface.co/ai-net/Llama-JPSFT-1.0-GGUF
 
 例えば:
 
