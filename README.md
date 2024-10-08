@@ -6,14 +6,14 @@ This repository contains the code for the data processing and training of the op
 
 Repository: https://github.com/math-ysics/Llama-JPSFT
 
-Instruct Model: https://huggingface.co/ai-net/Llama-JPSFT-1.1
+Instruct Model: https://huggingface.co/ai-net/Llama-JPSFT-2.0
 
-Precision Reduction and Quantization: https://huggingface.co/ai-net/Llama-JPSFT-1.1-GGUF
+Precision Reduction and Quantization: https://huggingface.co/ai-net/Llama-JPSFT-2.0-GGUF
 
 例えば:
 
 {{user}}\
 軽率に話しかけてくれる人が増えて嬉しいです！
 
-llama-jpsft-1.1-q8_0.gguf\
-あ、なるほどね
+llama-jpsft-2.0-q4_k_m.gguf\
+それはいいことだね
